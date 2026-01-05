@@ -1,0 +1,97 @@
+
+Subject: Website Planning and Recommendations for Oren Lazovski
+
+Dear Oren,
+
+Below is a summary of all the information we've discussed regarding your website, structure, and recommendations:
+
+---
+
+**Website Structure for Oren Lazovski**
+
+### 1. Homepage
+   - Hero Banner: A high-quality video/photo with tagline: *"Oren Lazovski – Dancer, Choreographer, Educator"*
+   - Introduction: Short description highlighting your expertise.
+   - Quick Navigation: Links to key sections like "About," "Choreography," "Teaching," and "Contact."
+
+### 2. About
+   - Biography: Narrative of your professional journey.
+   - Timeline: Visual timeline of milestones (education, performances, awards).
+   - Photos/Videos: Gallery of performances and teaching moments.
+
+### 3. Choreographic Works
+   - Featured Works: Highlight key projects like *"Happy End,"* *"Zeit,"* and *"La Traviata."*
+   - Full List: Chronological catalog of all works.
+   - Behind the Scenes: Showcase your creative process.
+
+### 4. Teaching
+   - Philosophy: Explanation of your teaching philosophy and "Strange Tools" method.
+   - Workshops and Classes: Info on past/upcoming workshops and what participants can expect.
+   - Testimonials: Quotes from students and colleagues.
+   - Photo/Video Gallery: Teaching highlights.
+
+### 5. Performances
+   - Upcoming Performances: Calendar of future performances and events.
+   - Past Performances: Archive of notable performances.
+
+### 6. Media
+   - Photo Gallery: Professional photos from performances, rehearsals, workshops.
+   - Video Showcase: Choreography, performances, and teaching videos.
+   - Press & Reviews: Articles, interviews, and reviews.
+
+### 7. Awards & Recognition
+   - Showcase scholarships, awards, and grants (e.g., "Dis-Tanzen," Berlin Senate Research Grant).
+
+### 8. Collaborations
+   - Highlight partnerships with companies and institutions like Kamea Dance Company, Deutsche Oper Berlin, etc.
+   - Include testimonials from collaborators.
+
+### 9. Contact
+   - Contact Form: For inquiries (collaborations, workshops, performances).
+   - Details: Email, phone number, social media links.
+   - Location: Optionally include Berlin, Germany.
+
+### 10. Blog/Insights (Optional)
+   - Share updates, thoughts on dance, creative process, or announcements.
+
+### 11. Store (Optional)
+   - Sell merchandise, digital works, or teaching materials.
+
+---
+
+**Platform Recommendation: Wix**
+
+- **Why Wix is a Good Fit:**
+  - User-friendly drag-and-drop editor.
+  - Visual-focused templates perfect for artists.
+  - Built-in tools for video, photo galleries, and event calendars.
+  - Multilingual options (English, German, Hebrew).
+  - Affordable pricing plans.
+
+- **Considerations:**
+  - Limited scalability for advanced features (WordPress may be better for that).
+  - Design lock-in once a template is chosen.
+
+- **Alternatives:**
+  - Squarespace: Sleek and professional designs.
+  - WordPress: Highly customizable for long-term flexibility.
+  - Webflow: Professional-grade design with advanced control.
+
+---
+
+**Choreographic Works by Oren Lazovski**
+1. 2024: *"Happy End"* - Commissioned by Kamea Dance Company, Israel.
+2. 2019: *"Zeit"* - Duet performed at Palucca University of Dance, Dresden.
+3. 2019: *"La Traviata"* - Opera choreography at Komische Oper Berlin.
+4. 2018: *"Inside the Ball"* - Site-specific project at Berlin’s Philharmonie.
+5. 2012: *"Under the Skin"* - Presented at Biennale di Danza, Venice.
+6. 2011: *"Parallels"* - Performance at Maxim Gorki Theater, Berlin.
+7. 2010: *"The Journey"* - A solo work exploring identity and movement.
+8. 2009: *"Reflections"* - Ensemble work blending classical and modern styles.
+
+---
+
+Thank you for your interest and trust in this process. I hope this information is helpful as you move forward with building your online presence. Let me know if you have further questions or require additional assistance.
+
+Warm regards,  
+Your Assistant
